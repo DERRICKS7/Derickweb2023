@@ -1,0 +1,15 @@
+* {
+    padding: 105;
+    margin: 5;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+body{
+    background: url(house_by_the_lake_drawing-wallpaper-1366x768.jpg) no-repeat;
+    background-size: cover;
+    forced-color-adjust: 50;
+    p{
+        color: azure;
+    }
+    
+}
